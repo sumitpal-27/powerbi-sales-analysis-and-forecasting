@@ -21,14 +21,23 @@ Visual prediction of upcoming sales using forecasting algorithms in Power BI.
 ---
 
 ## 📁 Repository Structure
-datasets/
-└── SuperStore_Sales_Dataset.csv # Dataset used in the report
 
-reports/
-├── salesReport.pbix # Power BI report file
-├── dashboard_overview.png # Screenshot of the main dashboard
-└── 15daysforecast.png # Screenshot of the 15-day forecast
+```bash
+## 📁 Repository Structure
 
+powerbi-sales-analysis-and-forecasting/
+│
+├── reports/
+│   ├── salesReport.pbix               # Power BI report file
+│   ├── dashboard_overview.png         # Screenshot of the main dashboard
+│   └── 15daysforecast.png             # Screenshot of the 15-day forecast
+│
+├── datasets/
+│   └── SuperStore_Sales_Dataset.csv   # Dataset used in the report
+│
+└── README.md
+
+```
 
 ---
 
