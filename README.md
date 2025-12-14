@@ -3,7 +3,7 @@
 This Power BI project provides a complete sales performance analysis using the SuperStore dataset, along with a 15-day sales forecast driven by Power BI’s time-series analytics and forecasting models.
 
 The report focuses on key KPIs, trends, customer segments, and product categories to support business decision-making.
-
+ 
 ---
 
 ## 📸 Dashboard Previews
