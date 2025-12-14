@@ -26,7 +26,7 @@ Visual prediction of upcoming sales using forecasting algorithms in Power BI.
 ## 📁 Repository Structure
 
 powerbi-sales-analysis-and-forecasting/
-│
+│ 
 ├── reports/
 │   ├── salesReport.pbix               # Power BI report file
 │   ├── dashboard_overview.png         # Screenshot of the main dashboard
